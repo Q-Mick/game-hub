@@ -1,4 +1,4 @@
-# React TypeScript App with Chakra UI - RAWG API Explorer
+# React TypeScript App with ChakraUI - AXIOS
 This repository contains a React app built as part of my journey to learn coding using React and TypeScript. The app is an exercise, that I did to help get familiar with the fundamentals of typescript and React as I primarily use Vue and want to expand my skills, I utilized the Chakra UI library for efficient component building, and integrating Axios for making HTTP requests to the RAWG API.
 The app is a platform for exploring and displaying information from the RAWG database in a clean and efficient manner.
 
